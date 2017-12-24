@@ -3,8 +3,8 @@ package render_test
 import (
 	"encoding/json"
 	"encoding/xml"
-	"gopkg.in/andviro/noodle.v2"
-	"gopkg.in/andviro/noodle.v2/render"
+	"github.com/go-noodle/noodle"
+	"github.com/go-noodle/render"
 	"gopkg.in/tylerb/is.v1"
 	"html/template"
 	"net/http"

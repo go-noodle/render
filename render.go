@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"gopkg.in/andviro/noodle.v2"
+	"github.com/go-noodle/noodle"
 )
 
 type key struct{}
